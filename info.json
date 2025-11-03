@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lightsaber - Blue",
+    "price": 299.99,
+    "category": "Weapons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lightsaber - Red",
+    "price": 299.99,
+    "category": "Weapons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lightsaber - Green",
+    "price": 299.99,
+    "category": "Weapons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yoda Figurine",
+    "price": 45.99,
+    "category": "Collectibles",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Darth Vader Helmet",
+    "price": 89.99,
+    "category": "Collectibles",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  }
+]
